@@ -33,7 +33,7 @@ El objetivo de este repositorio es que comprendamos mejor los programas que real
 
 Otra motivación para realizar este repositorio es que muchos de nosotros nos perdimos durante la clase o simplemente los programas no funcionaban, así que tener un respaldo como base para comenzar nuestro proyecto me pareció adecuado.
 
-En este repositorio se encuentra en la carpeta `/src` los archivos **necesarios y funcionales** que pueden **descargar** para realizar el proyecto. **No esta actualizado con los cambios mostrados en el siguiente Blog**, estos cambios los tendrá que realizar cada uno de nosotros, pero siempre podrás guiarte con la información presente aquí mientras la voy actualizando, así que mucha suerte a todos. **:)**
+En este repositorio se encuentra en la carpeta `/src_base` los archivos **necesarios y funcionales** que pueden **descargar** para realizar el proyecto. **No esta actualizado con los cambios mostrados en el siguiente Blog**, estos cambios los tendrá que realizar cada uno de nosotros, pero siempre podrás guiarte con la información presente aquí mientras la voy actualizando, así que mucha suerte a todos. **:)**
 
 <img src="./screenshots/discord_icon.png" alt="discord-icon" height="50"/>
 
